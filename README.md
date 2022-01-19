@@ -1,0 +1,2 @@
+# Library-Management
+The project objectives that will be achieved after completion of this project are discussed in this subchapter. The objectives are as follows: Online book issue Request column for librarian for providing new books Student login page where students can find books issued by him/her and date of return. Admin should be able to add librarian and remove librarian. Admin have all the privileges. Librarians can add the books, can issue books to students and also can enter returning details at the time of returning into it.
